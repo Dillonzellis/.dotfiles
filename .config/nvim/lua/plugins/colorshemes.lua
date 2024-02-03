@@ -5,10 +5,10 @@ return {
   { "Shatur/neovim-ayu" },
   { "gbprod/nord.nvim" },
 
-  -- {
-  --   "LazyVim/LazyVim",
-  --   opts = {
-  --     colorscheme = "gruvbox",
-  --   },
-  -- },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "gruvbox",
+    },
+  },
 }
