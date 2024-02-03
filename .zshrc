@@ -116,7 +116,7 @@ alias cl="clear"
 alias ..="cd .."
 alias rf="rm -rf"
 
-alias ls="colorls"
+# alias ls="colorls"
 alias nl="nightlight toggle"
 alias nlday="nightlight temp 45"
 alias nlnight="nightlight temp 100"
@@ -130,6 +130,7 @@ alias gs="git status"
 
 alias zshrc="nvim ~/.zshrc"
 alias config="cd ~/.config/nvim/ && nvim ."
+alias dotfiles="cd ~/.dotfiles/ && nvim ."
 
 alias rlmaffWP="cd ~/Projects/RLMAffairs && nvim ."
 
