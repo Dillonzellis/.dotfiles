@@ -1,6 +1,10 @@
 return {
   "folke/twilight.nvim",
   event = "VeryLazy",
+
+  -- keys = {
+  --   { "<leader>uu", "<cmd>UndotreeToggle", desc = "Toggle Undotree" },
+  -- },
   opts = {
     dimming = {
       alpha = 0.25, -- amount of dimming
@@ -18,5 +22,10 @@ return {
       "table",
       "if_statement",
     },
+  },
+
+  keys = {
+    { "<leader>tw", "<cmd>Twilight<cr>", desc = "Toggle Twilight" },
+    -- { "<C-p>", "<cmd>Telescope find_files<cr>", desc = "Find Files" },
   },
 }
