@@ -18,14 +18,7 @@ return {
       },
     })
   end,
-
-  -- cmd = {
-  --   "TmuxNavigateLeft",
-  --   "TmuxNavigateDown",
-  --   "TmuxNavigateUp",
-  --   "TmuxNavigateRight",
-  -- },
   keys = {
-    { "<leader>n", "<cmd>Neorg workspace notes<cr>" },
+    { "<leader>n", "<cmd>Neorg workspace notes<cr>", desc = "Neorg Notes Index" },
   },
 }
