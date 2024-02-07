@@ -1,0 +1,13 @@
+= FamilyPic =
+
+Auth
+Personal Dashboards
+Users
+Protected Routes
+
+File upload
+- uploadthing
+- aws
+- cloudinary
+
+nextui library

@@ -1,0 +1,31 @@
+== RLM Affairs ==
+
+== Inspiration ==
+- https://www.pendry.com/manhattan-west/
+- https://www.javitscenter.com/
+- https://philadelphia.livecasinohotel.com/
+
+== Build ==
+
+== Notes ==
+- make container variants and add it to sections/accounts for widest screens
+- more blue grey like
+- button more movie ticket regal button/more interesting shape/shape of a wedding invatation/gold seal wax stamp
+- texture parchment look to to bg of the whole site. Like heavy card stock so the site looks like a wedding invitation
+- mood feels like a wedding invatation or you are being invitied like you are at the wedding like a suddle paper texture in bg
+- luke text images pin stripe
+- a degree of paper texture
+- https://dribbble.com/shots/19356140-Forbes-Farm-Web-Design
+- grey border seperate page
+- introduce colors
+- Start with an introduction, showcase services, provide testimonials, and then a strong call to action.
+- Testimonials
+- more blue grey not zinc
+- change purple photo on home page
+- stick with white green gold colors maybe a brown
+- gallery have videos as well intermingled
+- transfer over email?
+- hosting video/images?
+- try pt sans narrow as sans font
+- Package Inspiration
+- https://www.pendry.com/manhattan-west/offers/#advance-purchase

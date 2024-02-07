@@ -1,0 +1,33 @@
+== Todo Buffer ==
+- remix
+- fzf for terminal
+- prime tmux conf
+- diablo loading screen bgs
+
+== Current ==
+[[MealPrep]]
+[[Job/RLM Affairs]]
+
+
+== Daily ==
+[[Daily/Today]]
+
+== Job ==
+[[Job/Road Map]]
+[[Job/Projects]]
+
+== Dev ==
+[[Dev/Config]]
+[[Dev/Recon]]
+[[Dev/Learning RoadMap]]
+
+== Training ==
+[[Training/New Program]]
+
+== Zellis ==
+[[Zellis/Road Map]]
+
+== Misc ==
+[[Misc/Grocery List]]
+[[Misc/House]]
+

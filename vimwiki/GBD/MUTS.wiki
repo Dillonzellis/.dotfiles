@@ -1,0 +1,6 @@
+- [X] Will they have rotating banners? If so, I’ll give some copy and images to create a couple so they can see rotation.
+- [X] Home Page > Web Banner – Use this image (or something similar) https://www.istockphoto.com/photo/car-driving-on-a-sunset-road-gm916540838-252201157?phrase=sleek+car
+
+- [X] pull over login information add reset credentials
+
+

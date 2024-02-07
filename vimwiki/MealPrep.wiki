@@ -1,0 +1,48 @@
+= Meal Prep =
+
+= Prompt =
+Write me a detailed meal plan that will use get 2700 calories and 200 grams of protein and low sugar using these foods:
+
+Meats
+- Wild caught salmon
+- clean chicken
+- Chicken sausage
+- whey protein powder (200 cal 20g protein)
+
+Sides
+- Spinach
+- rice
+- goat cheese
+- mini bell peppers
+- mushrooms
+- blueberries
+- bannanas
+- egg whites
+- oatmeal
+
+Make it 3 meals with a late snack
+
+
+
+== Prompt Reqs ==
+- 2700 Cals
+- 200g Protein
+- low sugar
+- 3 meals with late night snack that is sweeto
+
+== Meats ==
+- Wild caught salmon
+- clean chicken
+- Chicken sausage
+- whey protein powder (200 cal 20g protein)
+
+== Sides ==
+- Spinach
+- rice
+- goat cheese
+- mini bell peppers
+- mushrooms
+- blueberries
+- bannanas
+- egg whites
+

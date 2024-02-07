@@ -1,0 +1,16 @@
+= Job Road Map =
+
+* Resume
+- [ ] Add Projects
+- [ ] finalize
+- [ ] add to linked/portfolio
+
+* Projects
+- RLM Affairs
+- FamilyPic
+- ReelVibes
+
+* Portfolio
+- threejs
+
+* dev env/productivity workflow Blog Post
