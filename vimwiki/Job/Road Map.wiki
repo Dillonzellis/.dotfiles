@@ -7,8 +7,6 @@
 
 * Projects
 - RLM Affairs
-- FamilyPic
-- ReelVibes
 
 * Portfolio
 - threejs

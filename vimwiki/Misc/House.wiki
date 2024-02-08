@@ -1,4 +1,3 @@
-
 = House = 
 
 - [ ] remove screws in basement door

@@ -3,14 +3,14 @@
 - fzf for terminal
 - prime tmux conf
 - diablo loading screen bgs
+- WSL desktop setup
+- Cover band text
 
 == Current ==
-[[MealPrep]]
 [[Job/RLM Affairs]]
 
-
 == Daily ==
-[[Daily/Today]]
+[[Daily/Tasks]]
 
 == Job ==
 [[Job/Road Map]]

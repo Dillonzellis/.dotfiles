@@ -1,18 +1,7 @@
-
 = Config =
-
-- [ ] Unified ColorScheme
-- [ ] SpellChecker plugin
-- [ ] Harpoon overview
 
 
 == Prime Nvim Set Up ==
-* Harpoon set up
-* Telescope keybinding
-* what is cloak?
-* Trouble plugin?
 * zen mode?
 * project fzf keymap(in telescope setup?)
 
-== Nvim Plugins ==
-* dashboard vs alpha
