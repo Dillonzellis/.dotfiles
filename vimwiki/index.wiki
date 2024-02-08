@@ -1,10 +1,6 @@
 == Todo Buffer ==
-- remix
-- fzf for terminal
-- prime tmux conf
 - diablo loading screen bgs
 - WSL desktop setup
-- Cover band text
 
 == Current ==
 [[Job/RLM Affairs]]
@@ -16,7 +12,7 @@
 [[Job/Road Map]]
 [[Job/Projects]]
 
-== Dev ==
+== [[Dev]] ==
 [[Dev/Config]]
 [[Dev/Recon]]
 [[Dev/Learning RoadMap]]
@@ -26,6 +22,9 @@
 
 == Zellis ==
 [[Zellis/Road Map]]
+
+== [[Cover Band]] ==
+- Learn Songs
 
 == Misc ==
 [[Misc/Grocery List]]
