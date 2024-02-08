@@ -4,11 +4,13 @@ return {
   { "rmehri01/onenord.nvim" },
   { "Shatur/neovim-ayu" },
   { "gbprod/nord.nvim" },
+  { "Mofiqul/dracula.nvim" },
+  { "rose-pine/neovim" },
 
-  -- {
-  --   "LazyVim/LazyVim",
-  --   opts = {
-  --     colorscheme = "gruvbox",
-  --   },
-  -- },
+  {
+    "LazyVim/LazyVim",
+    opts = {
+      colorscheme = "dracula",
+    },
+  },
 }
