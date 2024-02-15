@@ -8,6 +8,11 @@
   - load silver 
 - noise machine
 - soccer ball
+- sandals/shoes
+- sunglasses
+- hat
+  - cap
+  - strawhat
 
  
 - Clothes to drive
