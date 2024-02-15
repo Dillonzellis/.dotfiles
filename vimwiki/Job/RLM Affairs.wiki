@@ -3,8 +3,6 @@
 == Current ==
 * Nav Menu
   - sticky bg color change on scroll
-  - sheet menu animation slide onto screen
-  - menu svgs animation on open and close
 
 * Love Letters
   - typewriter animation

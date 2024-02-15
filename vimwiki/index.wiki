@@ -1,9 +1,11 @@
 == Todo Buffer ==
 - diablo loading screen bgs
 - WSL desktop setup
+- dotfiles build scripts and for linux/WSL
 
 == Current ==
 [[Job/RLM Affairs]]
+[[Trip]]
 
 == Daily ==
 [[Daily/Tasks]]
