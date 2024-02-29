@@ -5,7 +5,6 @@
 
 == Current ==
 [[Job/RLM Affairs]]
-[[Trip]]
 
 == Daily ==
 [[Daily/Tasks]]
@@ -25,10 +24,11 @@
 == Zellis ==
 [[Zellis/Road Map]]
 
-== [[Cover Band]] ==
-- Learn Songs
+== Cover Band ==
+[[Cover Band]]
 
 == Misc ==
 [[Misc/Grocery List]]
 [[Misc/House]]
+[[Misc/Trip Checklist]]
 
