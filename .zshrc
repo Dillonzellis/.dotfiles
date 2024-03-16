@@ -138,6 +138,8 @@ alias rlmaff="tmuxifier s rlmaff"
 alias fam="tmuxifier s fam"
 alias tracker="tmuxifier s tracker"
 alias train="tmuxifier s train"
+alias v-cleans="tmuxifier s v-cleans"
+alias port="tmuxifier s port"
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
