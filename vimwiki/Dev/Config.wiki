@@ -1,7 +1,0 @@
-= Config =
-
-
-== Prime Nvim Set Up ==
-* zen mode?
-* project fzf keymap(in telescope setup?)
-

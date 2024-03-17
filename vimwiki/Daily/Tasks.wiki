@@ -1,5 +1,0 @@
-= Tasks = 
-
-- remix
-- fzf for terminal
-- prime tmux conf

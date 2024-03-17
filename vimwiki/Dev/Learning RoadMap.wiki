@@ -1,9 +1,0 @@
-= Learning RoadMap =
-
-- [ ] Docker
-- [ ] Express
-- [ ] AWS
-- [ ] Fetch
-- [ ] React Query/TanStack
-- [ ] Testing Libraries
-- [ ] Algorithms

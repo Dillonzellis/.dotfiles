@@ -1,5 +1,0 @@
-= House = 
-
-- [ ] remove screws in basement door
-- [ ] Aramadillo Holes
-- [ ] Toilet Leaking
