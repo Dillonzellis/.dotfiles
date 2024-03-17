@@ -28,9 +28,25 @@ require("lazy").setup({
 	-- modular approach: using `require 'path/name'` will
 	-- include a plugin definition from file lua/path/name.lua
 
+	require("zell/plugins/gitsigns"),
+
+	require("zell/plugins/which-key"),
 
 	require("zell/plugins/telescope"),
 
+	require("zell/plugins/lspconfig"),
+
+	require("zell/plugins/conform"),
+
+	require("zell/plugins/cmp"),
+
+	require("zell/plugins/tokyonight"),
+
+	require("zell/plugins/todo-comments"),
+
+	require("zell/plugins/mini"),
+
+	require("zell/plugins/treesitter"),
 
 	-- The following two comments only work if you have downloaded the kickstart repo, not just copy pasted the
 	-- init.lua. If you want these files, they are in the repository, so you can just download them and
