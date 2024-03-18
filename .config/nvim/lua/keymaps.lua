@@ -2,7 +2,12 @@
 --  See `:help vim.keymap.set()`
 --
 -- replace word under cursor throughout file
-vim.keymap.set("n", "<leader>s", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])
+vim.keymap.set(
+	"n",
+	"<leader>sS",
+	[[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]],
+	{ desc = "Replace word under cursor throughout file" }
+)
 
 -- delete single character without copying into register
 vim.keymap.set("n", "x", '"_x')
