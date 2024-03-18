@@ -35,6 +35,7 @@ require("lazy").setup({
 	require("zell/plugins/indent_line"),
 	require("zell/plugins/trouble"),
 	require("zell/plugins/vim-tmux-navigator"),
+	require("zell/plugins/harpoon"),
 
 	-- Lsp/Formatter/etc
 	require("zell/plugins/lspconfig"),
