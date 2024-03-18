@@ -41,6 +41,7 @@ require("lazy").setup({
 	require("zell/plugins/indent_line"),
 	require("zell/plugins/trouble"),
 	require("zell/plugins/vim-tmux-navigator"),
+	require("zell/plugins/Lazygit"),
 }, {
 	ui = {
 		-- If you have a Nerd Font, set icons to an empty table which will use the
