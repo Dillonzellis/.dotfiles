@@ -28,20 +28,28 @@ require("lazy").setup({
 	-- modular approach: using `require 'path/name'` will
 	-- include a plugin definition from file lua/path/name.lua
 
-	require("zell/plugins/gitsigns"),
 	require("zell/plugins/which-key"),
 	require("zell/plugins/telescope"),
-	require("zell/plugins/lspconfig"),
-	require("zell/plugins/conform"),
-	require("zell/plugins/cmp"),
-	require("zell/plugins/tokyonight"),
 	require("zell/plugins/todo-comments"),
 	require("zell/plugins/mini"),
-	require("zell/plugins/treesitter"),
 	require("zell/plugins/indent_line"),
 	require("zell/plugins/trouble"),
 	require("zell/plugins/vim-tmux-navigator"),
-	require("zell/plugins/Lazygit"),
+
+	-- Lsp/Formatter/etc
+	require("zell/plugins/lspconfig"),
+	require("zell/plugins/conform"),
+	require("zell/plugins/treesitter"),
+	require("zell/plugins/cmp"),
+
+	-- Git
+	require("zell/plugins/gitsigns"),
+	require("zell/plugins/lazygit"),
+
+	-- Colorschemes(refactor)
+	-- require("zell/plugins/tokyonight"),
+	-- require("zell/plugins/solarized-osaka"),
+	require("zell/plugins/gruvbox"),
 }, {
 	ui = {
 		-- If you have a Nerd Font, set icons to an empty table which will use the
