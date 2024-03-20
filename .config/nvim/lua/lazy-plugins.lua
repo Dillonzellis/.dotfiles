@@ -44,6 +44,7 @@ require("lazy").setup({
 	require("zell/plugins/conform"),
 	require("zell/plugins/treesitter"),
 	require("zell/plugins/cmp"),
+	require("zell/plugins/copilot"),
 
 	-- Git
 	require("zell/plugins/gitsigns"),
