@@ -37,6 +37,7 @@ require("lazy").setup({
 	require("zell/plugins/vim-tmux-navigator"),
 	require("zell/plugins/harpoon"),
 	require("zell/plugins/comment"),
+	require("zell/plugins/neo-tree"),
 	-- require("zell/plugins/leap"),
 
 	-- Lsp/Formatter/etc
