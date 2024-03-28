@@ -134,15 +134,27 @@ alias dotfiles="cd ~/.dotfiles/ && nvim ."
 
 alias rlmaffWP="cd ~/Projects/RLMAffairs && nvim ."
 
-alias rlmaff="tmuxifier s rlmaff"
-alias fam="tmuxifier s fam"
-alias tracker="tmuxifier s tracker"
-alias train="tmuxifier s train"
-alias v-cleans="tmuxifier s v-cleans"
+# alias rlmaff="tmuxifier s rlmaff"
+# alias fam="tmuxifier s fam"
+# alias tracker="tmuxifier s tracker"
+# alias train="tmuxifier s train"
+# alias v-cleans="tmuxifier s v-cleans"
 alias port="tmuxifier s port"
+alias oot="tmuxifier s oot"
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# bun completions
+[ -s "/Users/dillonellis/.bun/_bun" ] && source "/Users/dillonellis/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
