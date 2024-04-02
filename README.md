@@ -1,17 +1,17 @@
 # Dotfiles
 
-This repository contains my personal dotfiles, which are configurations for the development tools I use daily. It includes setups for Neovim, Tmux (with Tmuxifier), and the Zsh configuration file.
+This repo holds my personal configurations for Neovim, Tmux (with Tmuxifier), and Zsh. It's the backbone of my development environment, tailored over time to fit my workflow.
 
-## Contents
+## What's Inside
 
-- **Neovim**: My custom Neovim setup for an enhanced coding experience, including plugins, themes, and custom settings.
-- **Tmux**: Configuration for Tmux to enable session management and customization, making terminal usage more efficient and organized.
-- **Tmuxifier**: Layout configurations for Tmux, allowing predefined window and pane setups.
-- **Zshrc**: My Zsh configuration file for a customized terminal experience, including aliases, functions, and prompt customization.
+- **Neovim**: Forked from kickstart.nvim enhanced with plugins, themes, and some custom settings.
+- **Tmux**: Session management and customization for a more organized terminal use.
+- **Tmuxifier**: Predefined window and pane setups for Tmux through layouts.
+- **Zshrc**: Additional settings for tmux, bun, PATH stuff, and aliases.
 
-## Installation
+## Getting Started
 
-To use these configurations, you can clone the repository and symlink the files to their appropriate locations in your home directory.
+To adopt or explore my setup:
 
 ```bash
 git clone git@github.com:Dillonzellis/.dotfiles.git ~/dotfiles
@@ -21,8 +21,6 @@ ln -s ~/dotfiles/.tmuxifier ~/.tmuxifier
 ln -s ~/dotfiles/.zshrc ~/.zshrc
 ```
 
-Additionally, I recommend using GNU Stow to manage the symlinks more efficiently. You can install it using Homebrew on macOS or your package manager on Linux.
+Consider using GNU Stow for easier symlink management. Check out the [GNU Stow website](https://www.gnu.org/software/stow/) for more info.
 
-https://www.gnu.org/software/stow/
-
-Please note: Before creating symlinks, ensure that you backup your existing configurations to avoid any loss of settings.
+**Note:** Backup your current configurations to avoid any unintended changes.
