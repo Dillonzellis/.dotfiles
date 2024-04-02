@@ -4,12 +4,10 @@ This repo holds my personal configurations for Neovim, Tmux (with Tmuxifier), an
 
 ## What's Inside
 
-- **Neovim**: Forked from kickstart.nvim enhanced with plugins, themes, and some custom settings.
+- **Neovim**: Forked from [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) enhanced with plugins, themes, and some custom settings.
 - **Tmux**: Session management and customization for a more organized terminal use.
 - **Tmuxifier**: Predefined window and pane setups for Tmux through layouts.
 - **Zshrc**: Additional settings for tmux, bun, PATH stuff, and aliases.
-
-[Kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim)
 
 ## Getting Started
 
