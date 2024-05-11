@@ -38,6 +38,7 @@ require("lazy").setup({
 	require("zell/plugins/harpoon"),
 	require("zell/plugins/comment"),
 	require("zell/plugins/neo-tree"),
+	require("zell/plugins/markdown-preview"),
 	-- require("zell/plugins/leap"),
 
 	-- Lsp/Formatter/etc
