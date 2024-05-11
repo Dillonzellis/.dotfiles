@@ -134,11 +134,11 @@ alias dotfiles="cd ~/.dotfiles/ && nvim ."
 
 alias rlmaffWP="cd ~/Projects/RLMAffairs && nvim ."
 
-# alias rlmaff="tmuxifier s rlmaff"
 # alias fam="tmuxifier s fam"
 # alias tracker="tmuxifier s tracker"
 # alias train="tmuxifier s train"
 # alias v-cleans="tmuxifier s v-cleans"
+alias rlmaff="tmuxifier s rlmaff"
 alias port="tmuxifier s port"
 alias oot="tmuxifier s oot"
 
