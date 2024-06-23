@@ -125,6 +125,7 @@ alias nld="nightlight temp 45 && nightlight toggle"
 alias prj="cd ~/Projects"
 alias dl="cd ~/Downloads"
 alias desk="cd ~/Desktop"
+alias notes="cd ~/Documents/notes"
 
 alias gs="git status"
 
@@ -158,3 +159,4 @@ export NVM_DIR="$HOME/.nvm"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+export PATH=$PATH:$HOME/go/bin

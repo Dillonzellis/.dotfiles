@@ -53,9 +53,9 @@ require("lazy").setup({
 	require("zell/plugins/lazygit"),
 
 	-- Colorschemes(refactor)
-	-- require("zell/plugins/tokyonight"),
+	require("zell/plugins/tokyonight"),
 	-- require("zell/plugins/solarized-osaka"),
-	require("zell/plugins/gruvbox"),
+	-- require("zell/plugins/gruvbox"),
 }, {
 	ui = {
 		-- If you have a Nerd Font, set icons to an empty table which will use the
